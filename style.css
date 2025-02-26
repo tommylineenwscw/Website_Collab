@@ -41,11 +41,13 @@
         width: 450px; 
         margin-right: auto;
         margin-left: auto;
+        box-shadow: 8px 4px 8px grey;
+        
 
     } 
-
-    .startparagraph { 
-
-        
+    .text-container {
+        display: flex;
+        gap: 380px; 
+        align-items: center;
+        justify-content: center;
     }
-    
